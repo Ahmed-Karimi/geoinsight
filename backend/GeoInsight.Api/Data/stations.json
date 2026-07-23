@@ -1,0 +1,18 @@
+[
+  { "id": 1,  "name": "Islamabad Central Weather",   "type": "Weather",    "latitude": 33.6844, "longitude": 73.0479, "status": "Online",      "lastReading": 31.2, "unit": "°C" },
+  { "id": 2,  "name": "Blue Area Air Quality",       "type": "AirQuality", "latitude": 33.7080, "longitude": 73.0510, "status": "Online",      "lastReading": 168,  "unit": "AQI" },
+  { "id": 3,  "name": "Rawal Lake Gauge",            "type": "Water",      "latitude": 33.6980, "longitude": 73.1250, "status": "Online",      "lastReading": 4.3,  "unit": "m" },
+  { "id": 4,  "name": "Margalla Seismic",            "type": "Seismic",    "latitude": 33.7400, "longitude": 73.0600, "status": "Online",      "lastReading": 0.8,  "unit": "mag" },
+  { "id": 5,  "name": "Bahria Weather",              "type": "Weather",    "latitude": 33.5200, "longitude": 73.0900, "status": "Maintenance", "lastReading": 29.5, "unit": "°C" },
+  { "id": 6,  "name": "Saddar Air Quality",          "type": "AirQuality", "latitude": 33.5980, "longitude": 73.0470, "status": "Online",      "lastReading": 142,  "unit": "AQI" },
+  { "id": 7,  "name": "Simly Dam Gauge",             "type": "Water",      "latitude": 33.7200, "longitude": 73.3400, "status": "Online",      "lastReading": 12.1, "unit": "m" },
+  { "id": 8,  "name": "Fatima Jinnah Seismic",       "type": "Seismic",    "latitude": 33.6930, "longitude": 73.0230, "status": "Online",      "lastReading": 1.1,  "unit": "mag" },
+  { "id": 9,  "name": "Airport Weather",             "type": "Weather",    "latitude": 33.5490, "longitude": 72.8250, "status": "Online",      "lastReading": 30.1, "unit": "°C" },
+  { "id": 10, "name": "I-9 Industrial Air Quality",  "type": "AirQuality", "latitude": 33.6620, "longitude": 73.0730, "status": "Offline",     "lastReading": 210,  "unit": "AQI" },
+  { "id": 11, "name": "Korang Stream Gauge",         "type": "Water",      "latitude": 33.6700, "longitude": 73.1400, "status": "Online",      "lastReading": 2.2,  "unit": "m" },
+  { "id": 12, "name": "Nilore Seismic",              "type": "Seismic",    "latitude": 33.6500, "longitude": 73.2500, "status": "Online",      "lastReading": 0.5,  "unit": "mag" },
+  { "id": 13, "name": "Murree Foothills Weather",    "type": "Weather",    "latitude": 33.8500, "longitude": 73.2000, "status": "Online",      "lastReading": 22.4, "unit": "°C" },
+  { "id": 14, "name": "G-11 Air Quality",            "type": "AirQuality", "latitude": 33.6690, "longitude": 72.9930, "status": "Online",      "lastReading": 133,  "unit": "AQI" },
+  { "id": 15, "name": "Shahdara Stream Gauge",       "type": "Water",      "latitude": 33.7800, "longitude": 73.0900, "status": "Online",      "lastReading": 1.8,  "unit": "m" },
+  { "id": 16, "name": "Chak Shahzad Seismic",        "type": "Seismic",    "latitude": 33.6300, "longitude": 73.1500, "status": "Online",      "lastReading": 0.9,  "unit": "mag" }
+]
