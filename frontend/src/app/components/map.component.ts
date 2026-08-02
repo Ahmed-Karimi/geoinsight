@@ -49,8 +49,8 @@ export class MapComponent implements AfterViewInit, OnChanges {
     }
 
     for (const feature of this.data.features) {
-      const coordinates = feature.geometry.coordinates;
-      const marker = L.circleMarker([coordinates[0], coordinates[1]], {
+      const [lng, lat] = feature.geometry.coordinates;
+      const marker = L.circleMarker([lat, lng], {
         radius: 7,
         color: TYPE_COLORS[feature.properties.type] ?? '#6b7280',
         fillColor: TYPE_COLORS[feature.properties.type] ?? '#6b7280',
